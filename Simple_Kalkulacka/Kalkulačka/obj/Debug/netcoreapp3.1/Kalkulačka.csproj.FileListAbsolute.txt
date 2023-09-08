@@ -1,0 +1,30 @@
+C:\Users\tadea\Desktop\Kalkulačka\bin\Debug\netcoreapp3.1\Kalkulačka.exe
+C:\Users\tadea\Desktop\Kalkulačka\bin\Debug\netcoreapp3.1\Kalkulačka.deps.json
+C:\Users\tadea\Desktop\Kalkulačka\bin\Debug\netcoreapp3.1\Kalkulačka.runtimeconfig.json
+C:\Users\tadea\Desktop\Kalkulačka\bin\Debug\netcoreapp3.1\Kalkulačka.runtimeconfig.dev.json
+C:\Users\tadea\Desktop\Kalkulačka\bin\Debug\netcoreapp3.1\Kalkulačka.dll
+C:\Users\tadea\Desktop\Kalkulačka\bin\Debug\netcoreapp3.1\Kalkulačka.pdb
+C:\Users\tadea\Desktop\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.csprojAssemblyReference.cache
+C:\Users\tadea\Desktop\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.Form1.resources
+C:\Users\tadea\Desktop\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.csproj.GenerateResource.cache
+C:\Users\tadea\Desktop\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.AssemblyInfoInputs.cache
+C:\Users\tadea\Desktop\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.AssemblyInfo.cs
+C:\Users\tadea\Desktop\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.csproj.CoreCompileInputs.cache
+C:\Users\tadea\Desktop\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.dll
+C:\Users\tadea\Desktop\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.pdb
+C:\Users\tadea\Desktop\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.genruntimeconfig.cache
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\bin\Debug\netcoreapp3.1\Kalkulačka.exe
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\bin\Debug\netcoreapp3.1\Kalkulačka.deps.json
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\bin\Debug\netcoreapp3.1\Kalkulačka.runtimeconfig.json
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\bin\Debug\netcoreapp3.1\Kalkulačka.runtimeconfig.dev.json
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\bin\Debug\netcoreapp3.1\Kalkulačka.dll
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\bin\Debug\netcoreapp3.1\Kalkulačka.pdb
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.csprojAssemblyReference.cache
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.Kalkulačka.resources
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.csproj.GenerateResource.cache
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.AssemblyInfoInputs.cache
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.AssemblyInfo.cs
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.csproj.CoreCompileInputs.cache
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.dll
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.pdb
+C:\Users\tadea\Desktop\School\Návrh uživatelských rozhraní\8_Cviceni\Kalkulačka\obj\Debug\netcoreapp3.1\Kalkulačka.genruntimeconfig.cache

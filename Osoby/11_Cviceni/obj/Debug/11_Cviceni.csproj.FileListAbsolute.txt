@@ -1,0 +1,10 @@
+C:\Users\tadea\OneDrive\Plocha\Škola\Letní semestr 20-21\Návrh uživatelských rozhraní\11_Cviceni\bin\Debug\11_Cviceni.exe.config
+C:\Users\tadea\OneDrive\Plocha\Škola\Letní semestr 20-21\Návrh uživatelských rozhraní\11_Cviceni\bin\Debug\11_Cviceni.exe
+C:\Users\tadea\OneDrive\Plocha\Škola\Letní semestr 20-21\Návrh uživatelských rozhraní\11_Cviceni\bin\Debug\11_Cviceni.pdb
+C:\Users\tadea\OneDrive\Plocha\Škola\Letní semestr 20-21\Návrh uživatelských rozhraní\11_Cviceni\obj\Debug\11_Cviceni.csprojAssemblyReference.cache
+C:\Users\tadea\OneDrive\Plocha\Škola\Letní semestr 20-21\Návrh uživatelských rozhraní\11_Cviceni\obj\Debug\_11_Cviceni.Form1.resources
+C:\Users\tadea\OneDrive\Plocha\Škola\Letní semestr 20-21\Návrh uživatelských rozhraní\11_Cviceni\obj\Debug\_11_Cviceni.Properties.Resources.resources
+C:\Users\tadea\OneDrive\Plocha\Škola\Letní semestr 20-21\Návrh uživatelských rozhraní\11_Cviceni\obj\Debug\11_Cviceni.csproj.GenerateResource.cache
+C:\Users\tadea\OneDrive\Plocha\Škola\Letní semestr 20-21\Návrh uživatelských rozhraní\11_Cviceni\obj\Debug\11_Cviceni.csproj.CoreCompileInputs.cache
+C:\Users\tadea\OneDrive\Plocha\Škola\Letní semestr 20-21\Návrh uživatelských rozhraní\11_Cviceni\obj\Debug\11_Cviceni.exe
+C:\Users\tadea\OneDrive\Plocha\Škola\Letní semestr 20-21\Návrh uživatelských rozhraní\11_Cviceni\obj\Debug\11_Cviceni.pdb
